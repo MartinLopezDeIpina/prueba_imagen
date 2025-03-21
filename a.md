@@ -3,7 +3,10 @@
 blah blah blah
 
 
-##### Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents
-![Pasted image 20250304162831.png](https://github.com/MartinLopezDeIpina/prueba_imagen/blob/master/Pasted image 20250304162831.png)
-La i
-El m
+
+El módulo de memroia dicen que guarda las trazas anteriores, para hacerle un rag en base a cuáles tareas similares a esta que han acabado en éxito existen.
+![Pasted image 20250305201859.png](https://github.com/MartinLopezDeIpina/prueba_imagen/blob/master/Pasted%20image%2020250305201859.png)
+##### Reflexion: Language Agents with Verbal Reinforcement Learning
+El mítico tutorial de langgraph basicamente donde evalúa la respuesta y otro genera feedback y se le pasa al actor.
+El actor recibe también memoria corto largo plazo.
+No sé si esto ya está obsoleto al usar mo
